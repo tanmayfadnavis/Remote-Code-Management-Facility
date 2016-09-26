@@ -1,0 +1,33 @@
+﻿Build started 12/3/2015 12:14:58 AM.
+     1>Project "C:\Users\Tanmay\Desktop\Semester2\Object Oriented Design\Project4\Tanmay_Fadnavis_Pr4\CppCli-WPF-App\MockChannel\MockChannel.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AppHelpers.cpp ClientHandler.cpp "Cpp11-BlockingQueue.cpp" FileSystem.cpp MessageInterpreter.cpp MockChannel.cpp Receiver.cpp Sender.cpp Sockets.cpp WindowsHelpers.cpp
+         WindowsHelpers.cpp
+         Sockets.cpp
+         Sender.cpp
+         Receiver.cpp
+         MockChannel.cpp
+         MessageInterpreter.cpp
+         FileSystem.cpp
+         Cpp11-BlockingQueue.cpp
+         ClientHandler.cpp
+         AppHelpers.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tanmay\Desktop\Semester2\Object Oriented Design\Project4\Tanmay_Fadnavis_Pr4\CppCli-WPF-App\Debug\MockChannel.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tanmay\Desktop\Semester2\Object Oriented Design\Project4\Tanmay_Fadnavis_Pr4\CppCli-WPF-App\Debug\MockChannel.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tanmay\Desktop\Semester2\Object Oriented Design\Project4\Tanmay_Fadnavis_Pr4\CppCli-WPF-App\Debug\MockChannel.lib" /MACHINE:X86 /DLL Debug\AppHelpers.obj
+         Debug\ClientHandler.obj
+         "Debug\Cpp11-BlockingQueue.obj"
+         Debug\FileSystem.obj
+         Debug\MessageInterpreter.obj
+         Debug\MockChannel.obj
+         Debug\Receiver.obj
+         Debug\Sender.obj
+         Debug\Sockets.obj
+         Debug\WindowsHelpers.obj
+            Creating library C:\Users\Tanmay\Desktop\Semester2\Object Oriented Design\Project4\Tanmay_Fadnavis_Pr4\CppCli-WPF-App\Debug\MockChannel.lib and object C:\Users\Tanmay\Desktop\Semester2\Object Oriented Design\Project4\Tanmay_Fadnavis_Pr4\CppCli-WPF-App\Debug\MockChannel.exp
+         MockChannel.vcxproj -> C:\Users\Tanmay\Desktop\Semester2\Object Oriented Design\Project4\Tanmay_Fadnavis_Pr4\CppCli-WPF-App\Debug\MockChannel.dll
+     1>Done Building Project "C:\Users\Tanmay\Desktop\Semester2\Object Oriented Design\Project4\Tanmay_Fadnavis_Pr4\CppCli-WPF-App\MockChannel\MockChannel.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:27.40
